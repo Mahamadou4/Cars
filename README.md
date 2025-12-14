@@ -70,7 +70,7 @@ The app will automatically install dependencies from `requirements.txt` and star
 streamlit run app.py
 ```
 
-The app will open in your default web browser at `http://localhost:8501`
+The app will open in your default web browser at ` `
 
 ### Using the Car Class
 
