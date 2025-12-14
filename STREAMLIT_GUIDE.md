@@ -94,7 +94,7 @@ Cars/
 ## Troubleshooting
 
 ### Port already in use
-If port 8501 is already in use, run:
+
 ```bash
 streamlit run app.py --server.port 8502
 ```
